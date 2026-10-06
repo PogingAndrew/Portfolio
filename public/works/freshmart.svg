@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="900" height="900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F6DAD5"/><stop offset="1" stop-color="#D8C39B"/></linearGradient></defs>
+<rect width="900" height="900" fill="url(#g)"/><circle cx="210" cy="190" r="100" fill="#A6767D" fill-opacity="0.95"/><circle cx="450" cy="190" r="100" fill="#D8C39B" fill-opacity="0.8"/><circle cx="690" cy="190" r="100" fill="#F6DAD5" fill-opacity="0.95"/><circle cx="210" cy="430" r="100" fill="#A2B0A6" fill-opacity="0.8"/><circle cx="450" cy="430" r="100" fill="#F5EFE6" fill-opacity="0.95"/><circle cx="690" cy="430" r="100" fill="#8A5A62" fill-opacity="0.8"/><path d="M200 120 q40 -50 90 -20 q-30 50 -90 20z" fill="#5F7A6A"/>
+<text x="64" y="758" font-family="Helvetica, Arial, sans-serif" font-weight="800" font-size="76" letter-spacing="-2" fill="#3A2A2E">FreshMart</text>
+<text x="66" y="816" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#3A2A2E" fill-opacity=".8">Market site with online ordering</text></svg>

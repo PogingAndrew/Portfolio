@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="900" height="900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A2B0A6"/><stop offset="1" stop-color="#6F8577"/></linearGradient></defs>
+<rect width="900" height="900" fill="url(#g)"/><rect x="150" y="340" width="170" height="200" rx="18" fill="#3A2A2E" fill-opacity="0.5" /><rect x="360" y="230" width="170" height="310" rx="18" fill="#3A2A2E" fill-opacity="0.7" /><rect x="570" y="110" width="170" height="430" rx="18" fill="#3A2A2E" fill-opacity="0.95" /><circle cx="235" cy="200" r="50" fill="#D8C39B" fill-opacity="1"/><circle cx="445" cy="200" r="36" fill="#3A2A2E" fill-opacity="0.5"/><circle cx="655" cy="200" r="36" fill="#3A2A2E" fill-opacity="0.5"/><rect x="150" y="555" width="630" height="14" rx="7" fill="#3A2A2E" fill-opacity="0.5" />
+<text x="64" y="758" font-family="Helvetica, Arial, sans-serif" font-weight="800" font-size="76" letter-spacing="-2" fill="#3A2A2E">IronForge Gym</text>
+<text x="66" y="816" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#3A2A2E" fill-opacity=".8">Plans, schedule and contact form</text></svg>

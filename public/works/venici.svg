@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="900" height="900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111111"/><stop offset="1" stop-color="#3A2412"/></linearGradient></defs>
+<rect width="900" height="900" fill="url(#g)"/><circle cx="450" cy="330" r="270" fill="#F97316" fill-opacity="0.10"/><circle cx="450" cy="330" r="190" fill="#F97316" fill-opacity="0.12"/>
+<rect x="340" y="220" width="220" height="220" rx="56" fill="#F97316"/>
+<path d="M392 276l58 108 58-108" fill="none" stroke="#111111" stroke-width="30" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="64" y="758" font-family="Helvetica, Arial, sans-serif" font-weight="800" font-size="78" letter-spacing="-2" fill="#FFFFFF">Venici</text>
+<text x="66" y="816" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#FFFFFF" fill-opacity=".8">Fitness &amp; nutrition tracker &#183; thesis</text></svg>
